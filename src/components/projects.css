@@ -1,0 +1,35 @@
+.main-project-container{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    flex-direction: column;
+}
+
+.project-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    margin: 50px;
+}
+
+.project-container img{
+    width: 500px;
+    margin: 10px;
+}
+
+.project-container p{
+    padding: 30px;
+}
+
+.project-desc{
+    display: flex;
+    justify-content: start;
+    align-items: start;
+    flex-direction: column;
+    padding: 30px;
+}
+
+.project-desc h2{
+    font-weight: 600;
+}
