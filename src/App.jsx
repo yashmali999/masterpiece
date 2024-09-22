@@ -35,7 +35,6 @@ const App = () => {
      <Experience />
      <Projects />
      <Timeline/>
-     <Testimonials />
      <Contactform />
      <Footer />
     </div>
